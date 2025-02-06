@@ -14,9 +14,6 @@ Sou apaixonado por **Ciência e Análise de Dados**, sempre explorando novas man
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB
 - **Ferramentas:** Jupyter Notebook, Power BI, Tableau, Git/GitHub
 
-### 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
-
 ### 📫 Como me encontrar
 - 🌐 [LinkedIn](https://www.linkedin.com/in/paulo-ribeiro-a60931348/)
 - 📧 Email: paulorcj2007@gmail.com
