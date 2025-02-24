@@ -11,7 +11,7 @@ Sou apaixonado por **Ciência e Análise de Dados**, sempre explorando novas man
 ### 💻 Tecnologias e Ferramentas
 - **Linguagens:** Python e SQL
 - **Bibliotecas:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn e outras.
-- **Banco de Dados:** MySQL, PostgreSQL, MongoDB
+- **Banco de Dados:** MySQL, PostgreSQL, SQL Server, MongoDB
 - **Ferramentas:** Jupyter Notebook, Power BI, Tableau, Git/GitHub
 
 ### 📫 Como me encontrar
