@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Paulo.
 
-Sou apaixonado por **Ciência e Análise de Dados**, sempre explorando novas maneiras de transformar dados em insights valiosos.
+Interessado por **Ciência e Análise de Dados**, sempre explorando novas maneiras de transformar dados em insights valiosos.
 
 ### 🚀 Sobre mim
 - 🎓 Estudante de **Ciência e Análise de Dados**
