@@ -15,7 +15,7 @@ Interessado por **Ciência e Análise de Dados**, sempre explorando novas maneir
 - **Ferramentas:** Jupyter Notebook, Power BI, Tableau, Git/GitHub
 
 ### 📫 Como me encontrar
-- 🌐 [LinkedIn](www.linkedin.com/in/paulo-ribeiro-ds)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/paulo-ribeiro-ds/)
 - 📝 [Portfólio](https://portfolio-paulo-ribeiro-dados.lovable.app/)
 - 📧 Email: paulorcj2007@gmail.com
 
