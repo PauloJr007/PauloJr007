@@ -19,7 +19,6 @@ Interessado por **Ciência e Análise de Dados**, sempre explorando novas maneir
 - 📝 [Portfólio](https://portfolio-paulo-ribeiro-dados.lovable.app/)
 - 📧 Email: paulorcj2007@gmail.com
 
-Vamos nos conectar e trocar ideias sobre ciência de dados! 🚀
 
 
 <!--
