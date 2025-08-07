@@ -16,7 +16,7 @@ Interessado por **Ciência e Análise de Dados**, sempre explorando novas maneir
 
 ### 📫 Como me encontrar
 - 🌐 [LinkedIn](www.linkedin.com/in/paulo-ribeiro-ds)
-- 📝 [Portfólio](https://paulorcj2007.wixsite.com/portfolio)
+- 📝 [Portfólio](https://portfolio-paulo-ribeiro-dados.lovable.app/)
 - 📧 Email: paulorcj2007@gmail.com
 
 Vamos nos conectar e trocar ideias sobre ciência de dados! 🚀
