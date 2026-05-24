@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Paulo.
 
-Interessado por **Ciência e Análise de Dados**, sempre explorando novas maneiras de transformar dados em insights valiosos.
+ Atuo com **Ciência e Análise de Dados**, sempre explorando novas maneiras de transformar dados em insights valiosos.
 
 ### 🚀 Sobre mim
-- 🎓 Estudante de **Ciência e Análise de Dados**
+- 🎓 **Ciência e Análise de Dados**
 - 📊 Explorando **Machine Learning, Estatística e Visualização de Dados**
 - 💡 Interessado em **Big Data, Inteligência Artificial e Engenharia de Dados**
 - 🔎 Sempre aprendendo e experimentando novas tecnologias
